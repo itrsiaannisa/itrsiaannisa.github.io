@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/indikator-kpi/static/css/main.d8b9f806.css",
+    "main.js": "/indikator-kpi/static/js/main.3e2e4d3f.js",
+    "static/js/453.d7446e4a.chunk.js": "/indikator-kpi/static/js/453.d7446e4a.chunk.js",
+    "static/media/logo_web.png": "/indikator-kpi/static/media/logo_web.596acc1ecfbed627a550.png",
+    "static/media/header-anisa.jpg": "/indikator-kpi/static/media/header-anisa.8ad4a8e99b49990fdc8d.jpg",
+    "index.html": "/indikator-kpi/index.html",
+    "main.d8b9f806.css.map": "/indikator-kpi/static/css/main.d8b9f806.css.map",
+    "main.3e2e4d3f.js.map": "/indikator-kpi/static/js/main.3e2e4d3f.js.map",
+    "453.d7446e4a.chunk.js.map": "/indikator-kpi/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b9f806.css",
+    "static/js/main.3e2e4d3f.js"
+  ]
+}
